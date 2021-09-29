@@ -3,12 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Multumiaiu" << endl;
-    return 0;
-}
-
-int main()
-{
-    cout << "Nu merge " << endl;
+    cout << "Flavio programis at boha" << endl;
     return 0;
 }
